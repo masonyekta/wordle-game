@@ -21,19 +21,19 @@ export default function HowToPlayPage() {
         </div>
         <div className="grid w-full grid-rows-1">
           <div className="grid grid-cols-5 gap-1">
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-green-500 bg-green-500 text-2xl font-bold text-white uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-green-500 bg-green-500 text-2xl font-bold text-white uppercase transition-all duration-300">
               C
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               A
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               R
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               T
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               S
             </div>
           </div>
@@ -44,19 +44,19 @@ export default function HowToPlayPage() {
         </div>
         <div className="mt-2 grid w-full grid-rows-1">
           <div className="grid grid-cols-5 gap-1">
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               P
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-yellow-500 bg-yellow-500 text-2xl font-bold text-white uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-yellow-500 bg-yellow-500 text-2xl font-bold text-white uppercase transition-all duration-300">
               A
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               R
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               T
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               Y
             </div>
           </div>
@@ -67,19 +67,19 @@ export default function HowToPlayPage() {
         </div>
         <div className="mt-2 grid w-full grid-rows-1">
           <div className="grid grid-cols-5 gap-1">
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               L
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               I
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               G
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-300 text-2xl font-bold uppercase transition-all duration-300">
               H
             </div>
-            <div className="flex aspect-square w-full items-center justify-center border-2 border-gray-500 bg-gray-500 text-2xl font-bold text-white uppercase transition-all duration-300">
+            <div className="flex aspect-square w-full items-center justify-center rounded-md border-2 border-gray-500 bg-gray-500 text-2xl font-bold text-white uppercase transition-all duration-300">
               T
             </div>
           </div>

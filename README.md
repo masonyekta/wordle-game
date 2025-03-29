@@ -2,7 +2,7 @@
 
 A Wordle game built with [electron-shadcn](https://github.com/LuanRoger/electron-shadcn). It uses an [API endpoint](https://github.com/masonyekta/wordle-api) to validate words and determine if the letters are correct.
 
-![Preview](https://i.imgur.com/plHVLje.jpeg)
+![Preview](https://i.imgur.com/Y71gR6I.jpeg)
 
 ## Features
 
