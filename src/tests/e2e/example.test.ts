@@ -34,3 +34,8 @@ test.beforeAll(async () => {
     });
   });
 });
+test("renders page name", async () => {
+  const page: Page = await electronApp.firstWindow();
+  const title = await page.title();
+  expect(title).toBe("Wordle Game");
+});
