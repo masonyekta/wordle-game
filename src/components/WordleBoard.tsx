@@ -28,7 +28,7 @@ export default function WordleBoard({
             return (
               <div
                 key={colIndex}
-                className={`flex aspect-square w-full items-center justify-center border-2 text-2xl font-bold uppercase transition-all duration-300 ${
+                className={`flex aspect-square w-full items-center justify-center rounded-md border-2 text-2xl font-bold uppercase transition-all duration-300 ${
                   status || "border-gray-300"
                 }`}
               >
